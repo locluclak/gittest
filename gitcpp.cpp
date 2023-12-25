@@ -12,7 +12,7 @@ int main()
     cout << "abc";
 
 
-      cout << "hello world" <<endl;
+    cout << "hello world" <<endl;
     cout << "abc";
 
     cout << "-----------------------";
