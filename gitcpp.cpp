@@ -12,10 +12,10 @@ int main()
     cout << "abc";
 
 
-    cout << "hello world" <<endl;
-    cout << "abc";
+    cout << "hello world a sdf" <<endl;
+    cout << "abcasdf";
 
-    cout << "-----------------------";
+    cout << "-------++++++++------";
 
     
 }
