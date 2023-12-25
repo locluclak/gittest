@@ -9,7 +9,7 @@ int main()
     cout << "hello world" <<endl;
 
 
-    cout << "hello world a sdf" <<endl;
+    cout << "hello GDSC 2023" <<endl;
     cout << "abcasdf";
 
     cout << "-------++++++++------";
